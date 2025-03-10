@@ -20,7 +20,7 @@ on:
           - patch
           - custom
       custom_version:
-        description: 'Enter the custom version if custom'
+        description: 'Enter the custom version if custom type'
         required: false
 
 jobs:
